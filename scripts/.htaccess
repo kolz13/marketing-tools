@@ -1,0 +1,5 @@
+# /var/www/test/.htaccess
+<IfModule mod_rewrite.c>
+    DirectoryIndex index.py
+    RewriteEngine On
+</IfModule>

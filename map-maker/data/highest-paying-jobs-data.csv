@@ -1,0 +1,51 @@
+state,st,salary,type,label,occ_code,rank
+Alaska,AK,235600,Doctor,Family and General Practitioners,29-1062,1
+Alabama,AL,250340,Doctor,Internists,29-1063,2
+Arkansas,AR,265360,Doctor,Internists,29-1063,3
+Arizona,AZ,256760,Doctor,Surgeons,29-1067,4
+California,CA,264040,Doctor,Anesthesiologists,29-1061,5
+Colorado,CO,281470,Doctor,Orthodontists,29-1023,6
+Connecticut,CT,257710,Doctor,Anesthesiologists,29-1061,7
+Delaware,DE,247540,Doctor,OB/GYN,29-1064,8
+Florida,FL,250880,Doctor,Surgeons,29-1067,9
+Georgia,GA,271420,Doctor,Surgeons,29-1067,10
+Hawaii,HI,268140,Doctor,Podiatrists,29-1081,11
+Iowa,IA,280020,Doctor,Anesthesiologists,29-1061,12
+Idaho,ID,256950,Doctor,Dentists,29-1029,13
+Illinois,IL,248420,Doctor,Surgeons,29-1067,14
+Indiana,IN,261750,Doctor,Anesthesiologists,29-1061,15
+Kansas,KS,240600,Doctor,Surgeons,29-1067,16
+Kentucky,KY,265520,Doctor,Surgeons,29-1067,17
+Louisiana,LA,263740,Doctor,Anesthesiologists,29-1061,18
+Massachusetts,MA,268670,Doctor,Oral Surgeons,29-1022,19
+Maryland,MD,272420,Doctor,Anesthesiologists,29-1061,20
+Maine,ME,279390,Doctor,OB/GYN,29-1064,21
+Michigan,MI,245150,Doctor,Surgeons,29-1067,22
+Minnesota,MN,272660,Doctor,Orthodontists,29-1023,23
+Missouri,MO,277690,Doctor,Oral Surgeons,29-1022,24
+Mississippi,MS,272010,Doctor,Orthodontists,29-1023,25
+Montana,MT,246120,Doctor,OB/GYN,29-1064,26
+North Carolina,NC,269760,Doctor,Surgeons,29-1067,27
+North Dakota,ND,283200,Doctor,Anesthesiologists,29-1061,28
+Nebraska,NE,280830,Doctor,Surgeons,29-1067,29
+New Hampshire,NH,260230,Doctor,OB/GYN,29-1064,30
+New Jersey,NJ,270790,Doctor,Surgeons,29-1067,31
+New Mexico,NM,233710,Doctor,Internists,29-1063,32
+Nevada,NV,278550,Doctor,Surgeons,29-1067,33
+New York,NY,257040,Doctor,Anesthesiologists,29-1061,34
+Ohio,OH,258960,Doctor,Anesthesiologists,29-1061,35
+Oklahoma,OK,251350,Doctor,Orthodontists,29-1023,36
+Oregon,OR,238260,Doctor,Dentists,29-1029,37
+Pennsylvania,PA,258610,Doctor,Anesthesiologists,29-1061,38
+Rhode Island,RI,215280,Doctor,Chief Executives,11-1011,39
+South Carolina,SC,259920,Doctor,Surgeons,29-1067,40
+South Dakota,SD,279300,Doctor,Anesthesiologists,29-1061,41
+Tennessee,TN,239620,Doctor,Surgeons,29-1067,42
+Texas,TX,265460,Doctor,Orthodontists,29-1023,43
+Utah,UT,244500,Doctor,OB/GYN,29-1064,44
+Virginia,VA,247800,Doctor,Surgeons,29-1067,45
+Vermont,VT,232110,Doctor,Surgeons,29-1067,46
+Washington,WA,256100,Doctor,Anesthesiologists,29-1061,47
+Wisconsin,WI,245940,Doctor,Surgeons,29-1067,48
+West Virginia,WV,262830,Doctor,Anesthesiologists,29-1061,49
+Wyoming,WY,241800,Doctor,Physicians and Surgeons,29-1069,50

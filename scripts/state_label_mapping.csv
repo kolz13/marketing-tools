@@ -1,0 +1,51 @@
+state_abbrev,state,x,y,abbrev_needed
+ak,alaska,115,490,0
+al,alabama,657,405,0
+ar,arkansas,547,367,0
+az,arizona,205,355,0
+ca,california,70,260,0
+co,colorado,322,273,0
+ct,connecicut,913,220,1
+de,delaware,913,270,1
+fl,florida,770,500,0
+ga,georgia,715,400,0
+hi,hawaii,374,570,0
+ia,iowa,525,213,0
+id,idaho,195,145,0
+il,illinois,598,243,0
+in,indiana,645,253,0
+ks,kansas,445,290,0
+ky,kentucky,675,300,0
+la,louisiana,549,447,0
+ma,massachusetts,950,139,1
+md,maryland,913,295,1
+me,maine,892,85,0
+mi,michigan,658,174,0
+mn,minnesota,505,127,0
+mo,missouri,540,288,0
+ms,mississippi,603,410,0
+mt,montana,287,90,0
+nc,north carolina,787,327,0
+nd,north dakota,420,97,0
+ne,nebraska,424,226,0
+nh,new hampshire,845,65,1
+nj,new jersey,913,246,1
+nm,new mexico,304,369,0
+nv,nevada,140,235,0
+ny,new york,816,151,0
+oh,ohio,700,240,0
+ok,oklahoma,460,358,0
+or,oregon,103,123,0
+pa,pennsylvania,783,210,0
+ri,rhode island,913,196,1
+sc,south carolina,761,370,0
+sd,south dakota,420,161,0
+tn,tennessee,656,339,0
+tx,texas,429,450,0
+ut,utah,224,254,0
+va,virginia,788,282,0
+vt,vermont,790,100,1
+wa,washington,125,50,0
+wi,wisconsin,578,156,0
+wv,west virginia,742,269,0
+wy,wyoming,300,183,0

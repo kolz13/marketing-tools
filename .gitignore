@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.save
+graphs/*
+csvs/*
+emailer/*
